@@ -116,6 +116,17 @@ struct ARM7TDMI {
               SwitchMode(MODE_SYS);
               return;
           default:
+              printf("\nDEATH!!!");
+              printf("\nDEATH!!!");
+              printf("\nDEATH!!!");
+              printf("\nDEATH!!!");
+              printf("\nDEATH!!!");
+              printf("\nDEATH!!!");
+              printf("\nDEATH!!!");
+              printf("\nDEATH!!!");
+              printf("\nDEATH!!!");
+              printf("\nDEATH!!!");
+              printf("\nDEATH!!!");
               assert(1==0);
       }
   }
